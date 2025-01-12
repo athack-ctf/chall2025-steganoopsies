@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - Steganoopsies
 
-> A brief description of the challenge
+> A super easy stegano challenge involving dotsies writing; a simple encoding.
 
 ## Type
 
@@ -9,30 +9,14 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Hugo Kermabon-Bobinnec
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
-
-**IMPORTANT:** This description will **NOT** be shared with participants.
+Super easy chall for stegano discovery, for instance with dcode.fr. Dotsies writing is a type of writing invented, using only dots.
 
 ## Category(ies)
-
-- `pwn`
-- `re`
-- `web`
 - `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
-- `misc`
 
 ---
 
