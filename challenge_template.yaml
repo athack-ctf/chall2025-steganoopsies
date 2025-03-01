@@ -1,0 +1,40 @@
+# Name should be "Challenge name" if only one flag, or
+# "Challenge name - 1", "Challenge name - 2", etc. if multiple ones.
+# Be careful of the spaces before and after the '-'
+name: "Steganoopsies"
+author: ""
+category: <Stegano>
+description: 
+		Yo dawg, I heard you like stegano, so we put stegano challz alongside other stegano challz
+
+        NOTE: the flag value itself is in lowercase (format ATHACKCTF{[a-z]})
+    
+
+value: 0
+
+# Let's put the challenges as standard for now and we can script to change
+type: standard
+
+
+# Flags specify answers that your challenge use. You should generally provide at least one.
+flags:
+  - type: "static"
+    content: "ATHACKCTF{plznotsteganoagaiiiin}"
+    data: "case_insensitive"
+
+
+# Available: beginner, interac
+tags:
+    - beginner
+
+# Provide paths to files from the same directory that this file is in
+files:
+    - offline-artifacts/flag.jpg
+
+# If multiple flag challenge, put here the names of all previous challenges
+# requirements:
+#     - "Warmup"
+#     - "Are you alive"
+
+# Put hidden by default
+state: hidden
