@@ -1,0 +1,27 @@
+name: "Steganoopsies"
+author: "Hugo"
+category: Stegano
+description: 
+		Yo dawg, I heard you like stegano, so we put stegano challz alongside other stegano challz
+
+        NOTE: the flag value itself is in lowercase (format ATHACKCTF{[a-z]})
+    
+
+value: 50
+
+type: standard
+
+flags:
+  - type: "static"
+    content: "ATHACKCTF{plznotsteganoagaiiiin}"
+    data: "case_insensitive"
+
+tags:
+    - beginner
+
+files:
+    - offline-artifacts/flag.jpg
+
+state: visible
+
+version: "0.1"
