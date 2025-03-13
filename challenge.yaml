@@ -1,12 +1,11 @@
 name: "Steganoopsies"
 author: "Hugo"
 category: Stegano
-description: 
-		Yo dawg, I heard you like stegano, so we put stegano challz alongside other stegano challz
+description: |
+  Yo dawg, I heard you like stegano, so we put stegano challz alongside other stegano challz.
 
-        NOTE: the flag value itself is in lowercase (format ATHACKCTF{[a-z]})
-    
-
+  **NOTE**: the flag value itself is in lowercase (format `ATHACKCTF{[a-z]}`)
+  
 value: 50
 
 type: standard
@@ -17,10 +16,10 @@ flags:
     data: "case_insensitive"
 
 tags:
-    - beginner
+  - beginner
 
 files:
-    - offline-artifacts/flag.jpg
+  - offline-artifacts/flag.jpg
 
 state: visible
 

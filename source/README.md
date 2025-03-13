@@ -1,5 +1,5 @@
 # Building Your Challenge
 
-https://www.dcode.fr/dotsies-writing
+- Visit https://www.dcode.fr/dotsies-writing
 
-and input the flag
+- and input the flag
