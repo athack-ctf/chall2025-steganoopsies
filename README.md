@@ -1,46 +1,44 @@
-# Chall - Steganoopsies
+# @HACK 2025: Steganoopsies
 
-> A super easy stegano challenge involving dotsies writing; a simple encoding.
+> Authored by [Hugo](https://github.com/hkerma).
 
-## Type
+- **Category**: `Stegano`
+- **Value**: `50 points`
+- **Tags**: `beginner`
 
-- [X] **OFF**line
-- [ ] **ON**line
+> Yo dawg, I heard you like stegano, so we put stegano challz alongside other stegano challz.
+> 
+> **NOTE**: the flag value itself is in lowercase (format `ATHACKCTF{[a-z]}`)
+> 
 
-## Designer(s)
+## Files
+- **[Download: flag.jpg](https://github.com/athack-ctf/chall2025-steganoopsies/raw/refs/heads/main/offline-artifacts/flag.jpg)**
 
-- Hugo Kermabon-Bobinnec
+## Reveal Flag
 
-## Description
+Did you try solving this challenge?
+<details>
+<summary>
+Yes
+</summary>
 
-Super easy chall for stegano discovery, for instance with dcode.fr. Dotsies writing is a type of writing invented, using only dots.
+Did you **REALLY** try solving this challenge?
 
-## Category(ies)
-- `stegano`
+<details>
+<summary>
+Yes, I promise!
+</summary>
+
+Flag: `ATHACKCTF{plznotsteganoagaiiiin}`
+
+</details>
+</details>
+
 
 ---
 
-# Project Structure
+## About @HACK
+[@HACK](https://athackctf.com/) is an annual CTF (Capture The Flag) competition hosted by [HEXPLOIT ALLIANCE](https://hexploit-alliance.com/) and [TECHNATION](https://technationcanada.ca/) at Concordia University in Montreal, Canada.
 
-## 1. HACKME.md
-
-- **[HACKME.md](HACKME.md)**: A teaser or description of the challenge to be shared with participants (in CTFd).
-
-## 2. Source Code
-
-- **[source/README.md](source/README.md)**: Sufficient instructions for building your offline artifacts from source
-  code. If your project includes multiple subprojects, please consult us (Anis and Hugo).
-- **[source/*](source/)**: Your source code.
-
-## 3. Offline Artifacts
-
-- **[offline-artifacts/*](offline-artifacts/)**: All files (properly named) intended for local download by
-  participants (e.g., a binary executable for reverse engineering, a custom-encoded image, etc.). For large files (
-  exceeding 100 MB), please consult us (Anis and Hugo).
-
-## 4. Solution
-
-- **[solution/README.md](solution/README.md)**: A detailed writeup of the working solution.
-- **[solution/FLAGS.md](solution/FLAGS.md)**: A single markdown file listing all (up-to-date) flags.
-- **[solution/*](solution/)**: Any additional files or code necessary for constructing a reproducible solution for the
-  challenge (e.g., `PoC.py`, `requirement.txt`, etc.). 
+---
+[Check more challenges from @HACK 2025](https://github.com/athack-ctf/AtHackCTF-2025-Challenges).
